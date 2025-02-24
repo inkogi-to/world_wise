@@ -1,231 +1,63 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
+      "id": "aaea",
+      "cityName": "Peniche",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "date": "2025-02-24T17:22:13.717Z",
+      "notes": "",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
+        "lat": "39.35553794109382",
+        "lng": "-9.352111816406252"
+      }
     },
     {
+      "id": "385d",
+      "cityName": "Kollo",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2025-02-24T17:26:51.731Z",
+      "notes": "",
+      "position": {
+        "lat": "13.389619591747607",
+        "lng": "2.2192382812500004"
+      }
+    },
+    {
+      "id": "f18b",
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2025-02-24T17:26:55.896Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "1643",
-      "cityName": "Drei Gleichen",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2025-02-22T18:09:08.817Z",
-      "notes": "",
-      "position": {
-        "lat": "50.84757295365389",
-        "lng": "10.810546875000002"
+        "lat": "40.51379915504413",
+        "lng": "-3.7133789062500004"
       }
     },
     {
-      "id": "4c3f",
-      "cityName": "Zapfendorf",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2025-02-22T18:10:30.077Z",
+      "id": "21f0",
+      "cityName": "Guiaro",
+      "country": "Burkina Faso",
+      "emoji": "🇧🇫",
+      "date": "2025-02-24T17:27:54.158Z",
       "notes": "",
       "position": {
-        "lat": "50.02185841773447",
-        "lng": "10.964355468750002"
+        "lat": "11.113727282172755",
+        "lng": "-1.47216796875"
       }
     },
     {
-      "id": "2f8b",
-      "cityName": "Zapfendorf",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2025-02-22T18:13:34.031Z",
+      "id": "5964",
+      "cityName": "Bamako",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2025-02-24T17:32:20.507Z",
       "notes": "",
       "position": {
-        "lat": "50.02185841773447",
-        "lng": "10.964355468750002"
-      }
-    },
-    {
-      "id": "4295",
-      "cityName": "Mafra",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:13:53.906Z",
-      "notes": "",
-      "position": {
-        "lat": "38.988368562404126",
-        "lng": "-9.416484832763674"
-      }
-    },
-    {
-      "id": "d170",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "20ac",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "1435",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "cae0",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "3efe",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "efd1",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.07930786705157",
-        "lng": "-9.412708282470705"
-      }
-    },
-    {
-      "id": "e4c0",
-      "cityName": "Torres Vedras",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.13272339930893",
-        "lng": "-9.289627075195314"
-      }
-    },
-    {
-      "id": "144f",
-      "cityName": "Lourinha",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:16:52.744Z",
-      "notes": "",
-      "position": {
-        "lat": "39.23278500746931",
-        "lng": "-9.226455688476564"
-      }
-    },
-    {
-      "id": "ccc8",
-      "cityName": "Lourinha",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-02-22T18:18:14.477Z",
-      "notes": "",
-      "position": {
-        "lat": "39.23278500746931",
-        "lng": "-9.226455688476564"
-      }
-    },
-    {
-      "id": "1538",
-      "cityName": "Luyego",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-02-22T18:19:53.674Z",
-      "notes": "",
-      "position": {
-        "lat": "42.35854391749705",
-        "lng": "-6.262207031250001"
-      }
-    },
-    {
-      "id": "8bf6",
-      "cityName": "Vogan",
-      "country": "Togo",
-      "emoji": "🇹🇬",
-      "date": "2025-02-22T18:20:52.794Z",
-      "notes": "",
-      "position": {
-        "lat": "6.304378764325824",
-        "lng": "1.417236328125"
-      }
-    },
-    {
-      "id": "16dc",
-      "cityName": "Tchamba",
-      "country": "Togo",
-      "emoji": "🇹🇬",
-      "date": "2025-02-22T18:21:08.559Z",
-      "notes": "",
-      "position": {
-        "lat": "8.86336203355168",
-        "lng": "1.6040039062500002"
+        "lat": "12.597454504832005",
+        "lng": "-8.020019531250002"
       }
     }
   ]
