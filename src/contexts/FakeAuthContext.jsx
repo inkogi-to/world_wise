@@ -19,7 +19,7 @@ function reducer(state, action) {
             return {
                 ...state,
                 user: null,
-                initialState: false
+                isAuthenticated: false
             }
         default:
             throw new Error("Unknown action")
@@ -35,11 +35,11 @@ const FAKE_USER = {
 };
 
 function AuthProvider({children}) {
-    const [{login, logout}, dispatch] = useReducer(reducer, initialState)
+    const [{user, isAuthenticated}, dispatch] = useReducer(reducer, initialState)
 
     function login(email, password) {
         if (email === FAKE_USER.email && password === FAKE_USER.password)
-            dispatch({type"login", payload: FAKE_USER})
+            dispatch({type: "login", payload: FAKE_USER})
     }
 
     function logout() {
@@ -48,7 +48,12 @@ function AuthProvider({children}) {
 
 
     return (
-        <AuthContext.Provide>{children}</AuthContext.Provide>
+        <AuthContext.Provider value={{
+            user,
+            isAuthenticated,
+            login,
+            logout
+        }}>{children}</AuthContext.Provider>
     )
 }
 
@@ -57,7 +62,7 @@ function useAuth() {
 
     if (context === undefined)
         throw new Error("AuthContext was used outside AuthProvider")
-
+    return context;
 }
 
-export {AuthProvider, useAuth}
+export  {AuthProvider, useAuth}

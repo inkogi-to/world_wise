@@ -1,63 +1,39 @@
 {
   "cities": [
     {
-      "id": "aaea",
-      "cityName": "Peniche",
+      "id": "c569",
+      "cityName": "Rio Maior",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2025-02-24T17:22:13.717Z",
+      "date": "2025-02-25T19:02:29.612Z",
       "notes": "",
       "position": {
-        "lat": "39.35553794109382",
-        "lng": "-9.352111816406252"
+        "lat": "39.33429742980725",
+        "lng": "-8.926391601562502"
       }
     },
     {
-      "id": "385d",
-      "cityName": "Kollo",
-      "country": "Niger (the)",
-      "emoji": "🇳🇪",
-      "date": "2025-02-24T17:26:51.731Z",
-      "notes": "",
-      "position": {
-        "lat": "13.389619591747607",
-        "lng": "2.2192382812500004"
-      }
-    },
-    {
-      "id": "f18b",
-      "cityName": "Madrid",
+      "id": "8fb4",
+      "cityName": "Villamuriel de Cerrato",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-02-24T17:26:55.896Z",
+      "date": "2025-02-25T19:02:38.228Z",
       "notes": "",
       "position": {
-        "lat": "40.51379915504413",
-        "lng": "-3.7133789062500004"
+        "lat": "41.97582726102573",
+        "lng": "-4.487915039062501"
       }
     },
     {
-      "id": "21f0",
-      "cityName": "Guiaro",
-      "country": "Burkina Faso",
-      "emoji": "🇧🇫",
-      "date": "2025-02-24T17:27:54.158Z",
+      "id": "e025",
+      "cityName": "Canillo",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-02-25T19:02:41.544Z",
       "notes": "",
       "position": {
-        "lat": "11.113727282172755",
-        "lng": "-1.47216796875"
-      }
-    },
-    {
-      "id": "5964",
-      "cityName": "Bamako",
-      "country": "Mali",
-      "emoji": "🇲🇱",
-      "date": "2025-02-24T17:32:20.507Z",
-      "notes": "",
-      "position": {
-        "lat": "12.597454504832005",
-        "lng": "-8.020019531250002"
+        "lat": "42.580957288058144",
+        "lng": "1.6378211975097658"
       }
     }
   ]
