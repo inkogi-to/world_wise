@@ -25,12 +25,12 @@ To get started with the Cities Management App:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/cities-management-app.git
+       git clone https://github.com/inkogi-to/world_wise.git
     ```
 
 2. **Navigate into the project directory**:
     ```bash
-    cd cities-management-app
+    cd world_wise
     ```
 
 3. **Install dependencies**:
